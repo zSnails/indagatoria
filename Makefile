@@ -1,4 +1,4 @@
-SOURCE=$(shell ls src/* | sort -h)
+SOURCE=$(shell ls src/* 2> /dev/null | sort -h)
 
 Indagatoria.pdf: meta.yaml $(SOURCE)
 	pandoc -t pdf -o $@ --metadata-file=$^ --bibliography=./bibliography.bib --pdf-engine=xelatex --citeproc --csl=./ieee.csl
