@@ -1,0 +1,14 @@
+title: "Kubernetes y la Orquestación de Contenedores"
+author: "Aaron González, Mathew Carballo, Daniel Porras"
+lang: en
+toc: true
+lof: true
+documentclass: IEEEtran
+classoption:
+  - 10pt
+  - journal
+  - compsoc
+nocite: |
+  @*
+abstract: |
+  TODO: un abstract
