@@ -11,7 +11,7 @@ The control plane consists of multiple components that manage the lifecycle and 
 of containers.
 
 - The [API Server](https://kubernetes.io/docs/concepts/architecture/#kube-apiserver)
-  acts as the core hub, receiving commands from the users and providing the interface
+  acts as the core hub, receiving commands from the users and provides the interface
   for other components to communicate [@k8s-architecture].
 - The Scheduler efficiently allocates workloads (Pods) to nodes based on resource
   requirements and policies [@k8s-architecture].
