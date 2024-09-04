@@ -2,12 +2,55 @@ title: "Kubernetes & Container Orchestration"
 author: "Aaron González, Mathew Carballo, Daniel Porras"
 lang: en
 toc: true
-lof: true
 documentclass: IEEEtran
 classoption:
   - 10pt
   - journal
   - compsoc
 abstract: |
-  TODO: un abstract
-keywords: Kubernetes, Container Orchestration, Edge, Edge Computing
+  Kubernetes has emerged as the leading platform for container orchestration,
+  enabling organizations to efficiently deploy, manage, and scale containerized
+  applications across diverse environments. This paper explores the
+  architecture of Kubernetes, detailing its control plane and worker nodes,
+  which form the backbone of its modular and scalable design. It also examines
+  various use cases, including large-scale web applications, data science
+  pipelines, and edge computing, highlighting Kubernetes' flexibility and
+  adaptability. Furthermore, the paper discusses the current state of
+  Kubernetes, focusing on advancements such as serverless computing,
+  multi-cluster management, and its growing application in AI/ML and edge
+  environments. Comparisons with other orchestration tools like Docker Swarm
+  and Apache Mesos illustrate Kubernetes' strengths and areas of
+  specialization. Finally, real-world case studies demonstrate its impact on
+  companies like Airbnb, Spotify, and CERN, showcasing how Kubernetes optimizes
+  scalability, operational efficiency, and performance in high-demand
+  scenarios.
+keywords: 
+  - Kubernetes
+  - Container Orchestration
+  - Control Plane
+  - Worker Nodes
+  - Microservices
+  - Cloud-Native Applications
+  - DevOps Automation
+  - Data Science Pipelines
+  - Machine Learning (ML)
+  - Hybrid Cloud
+  - Multi-Cloud Deployments
+  - Serverless Computing
+  - Edge Computing
+  - Internet of Things (IoT)
+  - Service Mesh
+  - Multi-Cluster Management
+  - Container Runtime
+  - Scalability
+  - High-Performance Computing (HPC)
+  - Docker Swarm
+  - Apache Mesos
+  - Case Study
+  - Airbnb
+  - Spotify
+  - CERN
+  - Kubernetes Architecture
+  - AI/ML Integration
+  - CI/CD Pipelines
+  - Kubernetes Ecosystem
