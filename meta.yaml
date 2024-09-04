@@ -1,4 +1,4 @@
-title: "Kubernetes y la Orquestación de Contenedores"
+title: "Kubernetes & Container Orchestration"
 author: "Aaron González, Mathew Carballo, Daniel Porras"
 lang: en
 toc: true
@@ -8,7 +8,6 @@ classoption:
   - 10pt
   - journal
   - compsoc
-nocite: |
-  @*
 abstract: |
   TODO: un abstract
+keywords: Kubernetes, Container Orchestration, Edge, Edge Computing
